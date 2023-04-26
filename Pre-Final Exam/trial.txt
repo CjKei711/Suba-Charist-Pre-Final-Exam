@@ -1,0 +1,12 @@
+ <input type="number" id="quantity" placeholder="Item Quantity">
+                     <br>
+                     <input type="text" id="Fullname" placeholder="Full Name">
+                     <br>
+                     <input type="text" id="ContactNo" placeholder="Contact Number">
+                     <br>
+                     <input type="text" id="Email" placeholder="Email Address">
+                     <br>
+                     <input type="text" id="HomeAd" placeholder="Home Address">
+                     <br>
+                     <input type="text" id="Postal" placeholder="Postal Code">
+                     <br>
